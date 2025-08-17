@@ -1,0 +1,80 @@
+{
+  "onboarding": {
+    "business_types": ["E-commerce", "Retail", "SaaS", "Healthcare", "Education", "Other"],
+    "business_sizes": ["Startup (1-10)", "Growing (11-50)", "Enterprise (50+)"],
+    "goals": [
+      "Lead generation",
+      "CRM automation",
+      "WhatsApp marketing",
+      "Sales pipeline management",
+      "Customer support automation",
+      "Bulk messaging"
+    ]
+  },
+  "products": {
+    "OMX Sales": {
+      "description": "AI-powered sales command center with CRM integration, lead scoring, and automated workflows",
+      "key_features": [
+        "Unified lead management dashboard",
+        "AI-driven lead scoring",
+        "Multi-channel communication (Email/SMS/WhatsApp)",
+        "Real-time sales analytics"
+      ],
+      "pricing": "Starts at $99/month (billed annually)",
+      "demo_link": "https://omxdigital.ai/sales-demo"
+    },
+    "OMX Flow": {
+      "description": "WhatsApp Business automation platform with chatbot builder and campaign tools",
+      "key_features": [
+        "Bulk WhatsApp messaging with templates",
+        "Visual chatbot flow builder",
+        "Drip campaign automation",
+        "CRM integration with OMX Sales"
+      ],
+      "pricing": "Starts at $149/month (includes 1,000 messages)",
+      "demo_link": "https://omxdigital.ai/flow-demo"
+    }
+  },
+  "faqs": [
+    {
+      "question": "What makes OMX Sales different from other CRMs?",
+      "answer": "OMX Sales combines AI-powered lead scoring with built-in multi-channel communication and real-time analytics - all in one unified platform.",
+      "tags": ["sales", "comparison"]
+    },
+    {
+      "question": "Can I use my existing WhatsApp number with OMX Flow?",
+      "answer": "Yes! We guide you through migrating your current WhatsApp Business number to OMX Flow with zero downtime.",
+      "tags": ["flow", "setup"]
+    },
+    {
+      "question": "How quickly can I get started?",
+      "answer": "Most customers are fully operational within 48 hours. Our onboarding team provides personalized setup assistance.",
+      "tags": ["general"]
+    },
+    {
+      "question": "Do you offer volume discounts?",
+      "answer": "Enterprise pricing is available for high-volume users. Contact sales@omxdigital.ai for custom quotes.",
+      "tags": ["pricing"]
+    },
+    {
+      "question": "What integrations are available?",
+      "answer": "Both OMX Sales and Flow integrate with Shopify, Zapier, Salesforce, and HubSpot. Full API documentation is available.",
+      "tags": ["technical"]
+    },
+    {
+      "question": "Is there a mobile app?",
+      "answer": "Our web app is fully mobile-responsive. Native iOS/Android apps are launching Q1 2024.",
+      "tags": ["mobile"]
+    }
+  ],
+  "contact": {
+    "support_email": "support@omxdigital.ai",
+    "sales_email": "sales@omxdigital.ai",
+    "phone": "+1 (555) 123-4567",
+    "fallback_messages": [
+      "I couldn't find an exact match. Our support team can help at support@omxdigital.ai",
+      "For detailed inquiries, please email sales@omxdigital.ai",
+      "This requires personalized assistance. Call us at +1 (555) 123-4567"
+    ]
+  }
+}
