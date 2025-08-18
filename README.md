@@ -7,7 +7,7 @@ If the question is out of scope, it redirects users to contact support.
 ---
 
 Features
-- Onboarding Flow** – asks business type, size, and goals.
+- Onboarding Flow – asks business type, size, and goals.
 - Smart Recommendation** – suggests either:
   - OMX Sales → for lead management, CRM, automation, analytics.
   - OMX Flow → for WhatsApp automation, chatbot flows, bulk campaigns.
