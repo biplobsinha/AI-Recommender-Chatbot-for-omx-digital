@@ -15,25 +15,6 @@ Features
 - Fallback – directs users to contact sales/support if question is outside scope.
 - Modern UI – clean chat interface with interactive buttons.
 
----
-Project Structure
-AI RECOMMENDER CHATBOT/
-├── app.py # Flask backend (API + logic)
-├── data.json # Onboarding + FAQ dataset
-├── templates/
-│ └── index.html # Chat UI
-├── static/
-│ ├── style.css # Styling
-│ ├── script.js # Chatbot frontend logic
-└── README.md # Documentation
-Flow Diagram
-Onboarding
- ├── Business Type
- ├── Business Size
- ├── Goals
- └── Product Recommendation
-        ├── OMX Sales → Lead mgmt, CRM, automation
-        └── OMX Flow  → WhatsApp, chatbot, bulk messaging
 
 Tech Stack
 
@@ -41,3 +22,9 @@ Backend: Python (Flask)
 Frontend: HTML, CSS, JavaScript
 AI: SentenceTransformer (semantic search for FAQ answers)
 Data: JSON (FAQ + onboarding dataset)
+
+Install Dependencies :
+pip install flask sentence_transformers
+
+Run the App:
+python app.py
